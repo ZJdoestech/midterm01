@@ -52,7 +52,7 @@ nav a:hover {
     color: black;
 }
 .homebg {
-    background-image: url(/Midterm/img/IMG_9913.jpg);
+    background-image: url(/midterm01/img/IMG_9913.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center center;
@@ -92,7 +92,7 @@ nav a:hover {
     background-color: #9cdb83;
 }
 .ptvbg{
-    background-image: url(/Midterm/img/IMG_9913.jpg);
+    background-image: url(/midterm01/img/IMG_9913.jpg);
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -169,7 +169,7 @@ table tr td  p {
     color: black;
 }
 .pbg {
-    background-image: url(/Midterm/img/IMG_9913.jpg);
+    background-image: url(/midterm01/img/IMG_9913.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center center;
@@ -209,7 +209,7 @@ table tr td  p {
     color: black;
 }
 .ambg {
-    background-image: url(/Midterm/img/IMG_9913.jpg);
+    background-image: url(/midterm01/img/IMG_9913.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center center;
